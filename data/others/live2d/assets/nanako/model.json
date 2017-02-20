@@ -1,0 +1,37 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"model.moc",
+	"textures":[
+		"model.2048/texture_00.png"
+	],
+	"expressions":[
+		{"name":"表情：ドン引き.exp.json","file":"expressions/表情：ドン引き.exp.json"},
+		{"name":"表情：ラブラブ.exp.json","file":"expressions/表情：ラブラブ.exp.json"},
+		{"name":"表情：哀.exp.json","file":"expressions/表情：哀.exp.json"},
+		{"name":"表情：楽.exp.json","file":"expressions/表情：楽.exp.json"},
+		{"name":"表情：喜.exp.json","file":"expressions/表情：喜.exp.json"},
+		{"name":"表情：待機.exp.json","file":"expressions/表情：待機.exp.json"},
+		{"name":"表情：怒.exp.json","file":"expressions/表情：怒.exp.json"}
+	],
+	"motions":{
+		"":[
+			{"file":"motions/idle00.mtn"},
+			{"file":"motions/scene01.mtn"},
+			{"file":"motions/scene01_bad.mtn"},
+			{"file":"motions/scene02.mtn"},
+			{"file":"motions/scene02_bad.mtn"},
+			{"file":"motions/scene03.mtn"},
+			{"file":"motions/scene03_bad.mtn"},
+			{"file":"motions/scene04.mtn"},
+			{"file":"motions/scene04_bad.mtn"},
+			{"file":"motions/scene05.mtn"},
+			{"file":"motions/scene05_bad.mtn"},
+			{"file":"motions/scene06.mtn"},
+			{"file":"motions/scene06_bad.mtn"},
+			{"file":"motions/scene07.mtn"}
+		],
+		"idle":[
+			{"file":"motions/idle00.mtn"}
+		]
+	}
+}

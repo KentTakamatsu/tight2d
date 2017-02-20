@@ -16,3 +16,8 @@ LIVE2D_MODEL['Epsilon'] = {
     "filepath":"data/others/live2d/assets/Epsilon2.1/",
     "modeljson":"Epsilon2.1.model.json"
 };
+
+LIVE2D_MODEL['nanako'] = {
+    "filepath":"data/others/live2d/assets/nanako/",
+    "modeljson":"model.json"
+};
